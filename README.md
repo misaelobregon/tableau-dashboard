@@ -9,9 +9,9 @@ Data are saved and loaded as excel csv files.
 # Major Fidings First Quarter
 Findings for the first quarter of 2018 (see Story Dashboard https://prod-useast-a.online.tableau.com/#/site/riceanalyticscitibikeassignment/views/Dashboard1_15736204102690/Story1?:iid=1), graphs show location starting points and end points. Of particular interest, lower graphs represent clusters of rider age counts with highest particpant usage which range from 20s - 30s. Starting Station with longest average trip ride is Danforth Light Rail station.  Possible to assess if more stations are needed in and around this area to increase access for more riders. These are the major findings on this dashboard report.
 
-![dashboard 1](tableau-dashboard/images/dashboard1.png)
+![dashboard 1]("tableau-dashboard/images/dashboard1.png")
 
 # Major Fidings Fourth Quarter
 Findings for the fourth quarter of 2018 (see Story Dashboard https://prod-useast-a.online.tableau.com/#/site/riceanalyticscitibikeassignment/views/Dashboard2/Story1?:iid=11), graphs show location starting points and end points. Lower graphs show three clusters of riders by birth year, a change from first quarter from two to three clusters. Starting Station with longest average trip ride is now Bergen Ave; information on Danforth Light Rail station is not available. In comparison to first quarter, ridership has increased for customers and subscribers, reflecting success in the Citi Bike Program is continually growing in popularity.
 
-![dashboard 2](tableau-dashboard/images/dashboard2.png)
+![dashboard 2]("tableau-dashboard/images/dashboard2.png")
